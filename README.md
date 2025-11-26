@@ -41,8 +41,9 @@ cd seuprojeto
 
 ```
 
-### 1. Clone o repositório
+### 2. Gere o .env nesse modelo
 
+```bash
 
 OPENAI_API_KEY="sua_openai_api_key"
 
@@ -57,3 +58,5 @@ GOOGLE_CREDENTIALS_JSON='{
     "redirect_uris": ["http://localhost"]
   }
 }'
+
+```
